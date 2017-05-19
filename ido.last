@@ -1,0 +1,52 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/Frederick/Documents/SGPE/Microeconomics1/Problem_Sets/" . "Section_A/")
+ ("c:/Users/Frederick/Documents/SGPE/Microeconomics1/" . "Problem_Sets/")
+ ("c:/Users/" . "Frederick/")
+ ("c:/Users/Frederick/Documents/SGPE/Microeconomics2/" . "Exams/")
+ ("c:/Users/Frederick/Documents/SGPE/" . "Microeconomics1/")
+ ("c:/Users/Frederick/Documents/" . "SGPE/")
+ ("c:/Users/Frederick/" . "Documents/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/Frederick/Documents/SGPE/Microeconomics1/Problem_Sets/Section_A/"
+ "c:/Users/Frederick/.emacs.d/"
+ "c:/Users/Frederick/Documents/SGPE/Microeconomics2/Exams/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/Frederick/Documents/SGPE/Microeconomics1/Problem_Sets/Section_A/" (22753 27350 0 0) "Micro1A-PS_Sols_All.pdf" "Micro1A-PS_4_Note.pdf" "Micro1A-PS_4_Ans.tex" "Micro1A-PS_4_Ans.pdf" "Micro1A-PS_3_Notebook.pdf" "Micro1A-PS_3_Notebook.nb" "Micro1A-PS_3_Note.pdf" "Micro1A-PS_3_Ans.tex" "Micro1A-PS_3_Ans.pdf" "Micro1A-PS_2_Note.pdf" "Micro1A-PS_2_Ans.tex" "../" "./")
+
+ ("c:/Users/Frederick/Documents/SGPE/Microeconomics1/Problem_Sets/" (22753 27350 0 0) "Section_B/" "Section_A/" "../" "./")
+
+ ("c:/Users/Frederick/Documents/SGPE/Microeconomics2/Exams/" (22813 25798 0 0) "_region_.tex" "_region_.synctex.gz" "_region_.run.xml" "_region_.prv/" "_region_.log" "prv_Micro2-Exam_Ans.log" "notes.txt" "Micro2-Exam_Lecture.pdf" "Micro2-Exam_Ans.tex~" "Micro2-Exam_Ans.tex" "Micro2-Exam_Ans.synctex.gz" "Micro2-Exam_Ans.run.xml" "Micro2-Exam_Ans.prv/" "Micro2-Exam_Ans.log" "Micro2-Exam_2017.pdf" "Micro2-Exam_2016.pdf" "code/" "auto/" ".#Micro2-Exam_Ans.tex" "#Micro2-Exam_Ans.tex#" "../" "./")
+
+ ("c:/Users/Frederick/Documents/" (22812 37302 0 0) "Wolfram Mathematica/" "Undergraduate/" "TeX/" "spacemacs_old/" "SGPE/" "Rainmeter/" "Markdown_Tutorial.md" "GitHub/" "frederickwild.me/" "FindDupes2.log" "encryption_key.pfx" "Emelia Dissertation/" "desktop.ini" "Books/" "Applications/" "Adobe/" ".vscode/" "../" "./")
+
+ ("c:/Users/Frederick/.emacs.d/" (22813 25464 0 0) "snippets/" "server/" "plugins/" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "auto-save-list/" "ac-comphist.dat" "%backup%~" "# !Minibuf-2!#" "../" "./")
+
+ ("c:/Users/Frederick/" (22812 37408 0 0) "Searches/" "Saved Games/" "ntuser.pol" "ntuser.ini" "NTUSER.DAT{e2dc071f-1ab9-11e7-a3ce-8837fe20a1d3}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{e2dc071f-1ab9-11e7-a3ce-8837fe20a1d3}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{e2dc071f-1ab9-11e7-a3ce-8837fe20a1d3}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "node_modules/" "Links/" "Google Drive/" "Favorites/" "Evernote/" "en.pws" "en.prepl" "Documents/" "Desktop/" "cygwin-speed.py" "Creative Cloud Files/" "Contacts/" "AppData/" "Anaconda2/" ".windows-build-tools/" ".vscode/" ".texlive2016/" ".ssh/" ".spyder/" ".pylint.d/" ".pr_stat_data" ".oracle_jre_usage/" ".newton-mail/" ".matplotlib/" ".jupyter/" ".ipython/" ".gitconfig" ".emacs.d/" ".continuum/" ".conda/" ".atom/" ".android/" ".anaconda/" "../" "./")
+
+ ("c:/Users/" (22758 5412 0 0) "Public/" "Frederick/" "desktop.ini" "Default.migrated/" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/Frederick/Documents/SGPE/Microeconomics1/" (22762 6330 0 0) "TeX_Notes/" "Problem_Sets/" "Misc_Docs/" "Micro1B-Syllabus.pdf" "Micro1B-Lecture_Game_Theory.pdf" "Micro1B-Lecture_Expected_Utility.pdf" "Micro1A-Tutorial_1_2.pdf" "Micro1A-PS_1_Ans.tex" "Micro1A-Lecture_Notes.pdf" "Micro1A-Lecture_Notes-Comments.pdf" "Exams/" "../" "./")
+
+ ("c:/Users/Frederick/Documents/SGPE/Microeconomics2/" (22806 48581 0 0) "Problem_Sets/" "Micro2-Lecture_Notes.tex" "Micro2-Lecture_Notes.pdf" "Micro2-Lecture_4.pdf" "Micro2-Lecture_3.pdf" "Micro2-Lecture_2.pdf" "Micro2-Lecture_1.pdf" "Micro2-Cho_Kreps.pdf" "Micro2-2_Spence_Job_Market_Signalling.pdf" "Micro2-1_Akerlof_Market_for_Lemons.pdf" "Exams/" "../" "./")
+
+ ("c:/Users/Frederick/Documents/SGPE/Course_Notes/" (22799 31513 0 0) "Vitt_Notes/" "Time_Series/" "Introductory_Material/" "General_Equilibrium/" "Game_Theory/" "Econometrics/" "Business_Cycles/" "Baumann_Notes/" "Asymmetric_Information/" "Asset_Pricing/" "../" "./")
+
+ ("c:/Users/Frederick/Documents/SGPE/" (22797 50913 0 0) "Submission/" "Project/" "Option-Time_Series/" "Option-Bayesian/" "Option-Asset_Pricing/" "Mr_Market-20170129.docx" "Microeconomics2/" "Microeconomics1/" "Macroeconomics2/" "Macroeconomics1/" "Econometrics2/" "Econometrics1/" "Dissertation/" "Course_Notes/" "Course_Info/" "Coding/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
